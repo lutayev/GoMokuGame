@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resource/circle.png</file>
+        <file>Resource/circle_small.png</file>
+        <file>Resource/cross.png</file>
+        <file>Resource/cross_small.png</file>
+        <file>Resource/empty.png</file>
+        <file>Resource/empty_small.png</file>
+        <file>Resource/main.png</file>
+        <file>Resource/full_screen.png</file>
+        <file>Resource/maximize.png</file>
+        <file>Resource/normal.png</file>
+        <file>Resource/config.png</file>
+        <file>Resource/exit.png</file>
+        <file>Resource/reset.png</file>
+        <file>Resource/size.png</file>
+        <file>Resource/new.png</file>
+    </qresource>
+</RCC>
